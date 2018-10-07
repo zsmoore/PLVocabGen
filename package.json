@@ -1,0 +1,19 @@
+{
+  "name": "plvocabgen",
+  "version": "0.0.1",
+  "description": "Library to support templated strings in order to map certain language vocabulary for the purpose of auto generated programming exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsmoore/PLVocabGen.git"
+  },
+  "author": "Zachary Moore",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zsmoore/PLVocabGen/issues"
+  },
+  "homepage": "https://github.com/zsmoore/PLVocabGen#readme"
+}
